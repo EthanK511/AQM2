@@ -15,7 +15,7 @@ const char* FIREBASE_HOST   = "HOST ADRESS";
 const char* FIREBASE_SECRET = "DATABASE SECRET";
 const char* DEVICE_ID       = "DEVICE NAME";
 
-const uint64_t SLEEP_SECONDS = 30ULL;
+const uint64_t SLEEP_SECONDS = 300ULL;
 
 const char* NTP_POOL = "pool.ntp.org";
 const long  GMT_OFFSET_SEC = 0;

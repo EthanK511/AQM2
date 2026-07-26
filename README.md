@@ -1,6 +1,8 @@
 # AQM2
 A portable, inexpensive, open source, low-power CO2/air quality monitor
 <img width="1387" height="1068" alt="Untitled drawing" src="https://github.com/user-attachments/assets/792de066-c95c-437c-93c2-a4182aea65e4" />
+[Oshwlab](https://oshwlab.com/eknorwegia/project_kpvsolpj)
+[Easy Eda View Project](https://pro.easyeda.com/editor#id=3279f3b71d5047e581513a55c1dcb35e)
 ## Why
 Hack Club Macando
 ### AQM1

@@ -4,7 +4,6 @@ A portable, inexpensive, open source, low-power CO2/air quality monitor
 [Oshwlab](https://oshwlab.com/eknorwegia/project_kpvsolpj)
 [Easy Eda View Project](https://pro.easyeda.com/editor#id=3279f3b71d5047e581513a55c1dcb35e)
 ## Why
-Hack Club Macando
 ### AQM1
 In 2024, I started my first iteration of this project (AQM). Back then, it was also called many other names, such as "like CO2 Cloud" and "Big Waste Of Money".
 ### AQM2

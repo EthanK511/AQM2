@@ -219,7 +219,6 @@ I thinned the walls near the LEDs so they can be seen through the white plastic 
 
 Finally, I added a friction-fit top with a lip. The top sits inside the case with a very small tolerance so it stays in place.
 
-<img width="347" height="582" alt="Screenshot 2026-10-16 3 29 47 PM" src="https://github.com/user-attachments/assets/3d28359b-6e54-4a98-a84b-48e644d06765" />
 <img width="372" height="265" alt="Screenshot 2026-10-16 3 30 01 PM" src="https://github.com/user-attachments/assets/a571bef7-6d75-4c90-b7c6-56a7d3329698" />
 
 **Total time spent: 1.1 hours**

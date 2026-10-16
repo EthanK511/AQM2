@@ -5,7 +5,7 @@ description: "A wireless air-quality monitor that measures CO₂, temperature, a
 created_at: "2026-05-03"
 ---
 
-# May 3: Part selection
+# Part selection
 
 I'm going to use a collection of sensors and other parts to make a wireless monitor that measures CO₂, temperature, humidity, pressure, PM1, PM2.5, PM10, and maybe more.
 
@@ -13,7 +13,7 @@ I'm going to use a collection of sensors and other parts to make a wireless moni
 
 **Total time spent: 0.2 hours**
 
-# May 4: PCB schematic
+# PCB schematic
 
 I kind of forgot to journal for a while, but I made a bunch of progress! I added the sensors and the ESP, connected everything, and added a port and a lot of other small things to help make the project work.
 
@@ -21,7 +21,7 @@ I kind of forgot to journal for a while, but I made a bunch of progress! I added
 
 **Total time spent: 4 hours**
 
-# May 5: Finished the schematic and made a plan
+# Finished the schematic and made a plan
 
 At this point, I realized I had been pretty vague about the project, so here is a more detailed explanation.
 
@@ -43,7 +43,7 @@ As an update since my last journal entry, I finished the schematic, updated some
 
 **Total time spent: 2 hours**
 
-# May 6: PCB layout
+# PCB layout
 
 I started working on the PCB layout. I decided to begin with a 30 mm by 60 mm board outline, which I hope will give me enough room for all the parts and routing.
 
@@ -55,7 +55,7 @@ The next step is to research whether any of the sensors are sensitive to heat, a
 
 **Total time spent: 1 hour**
 
-# May 8: Finished the first PCB
+# Finished the first PCB
 
 ## Sensor placement
 
@@ -81,7 +81,7 @@ I went back and tried changing some settings, removing more expensive components
 
 **Total time spent: 4 hours**
 
-# May 22: Change of plans
+# Change of plans
 
 <img width="311" height="23" alt="Screenshot 2026-10-16 11 42 50 AM" src="https://github.com/user-attachments/assets/1854fa7e-df4d-4444-a163-f7b3ec53679e" />
 
@@ -99,7 +99,7 @@ Here is the new plan:
 
 **Total time spent: 0.1 Hours**
 
-# May 22: The parts
+# The parts
 
 I picked the new parts.
 
@@ -111,9 +111,9 @@ In the end, I decided to use the premade board for simplicity and because the pr
 
 <img width="366" height="252" alt="Screenshot 2026-10-16 11 43 01 AM" src="https://github.com/user-attachments/assets/9300663c-a773-4e4d-b8be-4e21d6851768" />
 
-**Total time spent: Not recorded**
+**Total time spent: 0.1 hours**
 
-# May 22: Schematic, again
+# Schematic, again
 
 I whipped up this little schematic pretty quickly, and I think it looks okay. It's very simple, and I added two extra individually addressable LEDs to act as air-quality indicators and for debugging.
 
@@ -121,7 +121,7 @@ I whipped up this little schematic pretty quickly, and I think it looks okay. It
 
 **Total time spent: 0.5 hours**
 
-# May 22: Issues everywhere
+# Issues everywhere
 
 Picture this: you're minding your own business, making a PCB design, and suddenly the community-made part refuses to connect to the SCD41 pin.
 
@@ -133,7 +133,7 @@ I had no idea why it was happening. I asked the internet, asked AI, and felt lik
 
 **Total time spent: 0.5 hours**
 
-# May 23: PCB layout
+# PCB layout
 
 I decided to use small 2.54 mm connectors instead of including the actual schematic components. I will not be assembling those parts directly onto this board, so that approach should work fine.
 
@@ -147,7 +147,7 @@ I just need to add some artwork now.
 
 **Total time spent: 0.3 hours**
 
-# May 23: Logos and artwork
+# Logos and artwork
 
 I finished the artwork! I made a custom logo in Canva, imported it into EasyEDA after removing the background with a cool Raycast extension for Mac, and then added some text and an HC logo.
 
@@ -157,7 +157,7 @@ After that, I was finished.
 
 **Total time spent: 0.5 hours**
 
-# May 24: Final edits
+# Final edits
 
 I found all the parts in the JLCPCB library that I needed to order, but the website did not give me a shipping cost, so I have no idea how much the final order will cost.
 
@@ -167,9 +167,9 @@ I also filled out the “I need funding” section and added the PCB to my cart.
 
 <img width="363" height="47" alt="Screenshot 2026-10-16 11 44 28 AM" src="https://github.com/user-attachments/assets/8c9e643f-494d-4a18-943b-e9604ffe82c8" />
 
-**Total time spent: Not recorded**
+**Total time spent: 0.5 hours**
 
-# May 24: GitHub
+# GitHub
 
 I made the GitHub repository and added a README. I also exported both EasyEDA project files for the two PCBs, added photos, and included a license.
 
@@ -177,7 +177,7 @@ I made the GitHub repository and added a README. I also exported both EasyEDA pr
 
 **Total time spent: 0.5 hours**
 
-# May 24: CAD
+# CAD
 
 I started working on the CAD design!
 
@@ -189,7 +189,7 @@ The next step is to figure out what went wrong and fix it.
 
 **Total time spent: 0.2 hours**
 
-# May 29: Board dimensions
+# Board dimensions
 
 After more tries than I care to admit, I had to subtract 2.54 mm from the board width, which was originally 17.9 mm. That finally gave me the correct width so the board would fit.
 
@@ -199,7 +199,7 @@ Yay!
 
 **Total time spent: 0.7 hours**
 
-# May 29: Finished the PCB, hopefully
+# Finished the PCB, hopefully
 
 I decided to manually map out the sizes of the two components that would plug into the board. I added their basic outlines to the board so I could align everything more accurately.
 
@@ -211,7 +211,7 @@ The next step is designing the case. I want to make two versions: one with only 
 
 **Total time spent: 0.6 hours**
 
-# May 29: Finished the case
+# Finished the case
 
 I made the case look nicer by rounding the edges. I also added an opening for the USB-C port and small ventilation holes near the sensor so air can pass through.
 
@@ -223,7 +223,7 @@ Finally, I added a friction-fit top with a lip. The top sits inside the case wit
 
 **Total time spent: 1.1 hours**
 
-# May 30: Firmware and Firebase
+# Firmware and Firebase
 
 I wrote code that wakes the device every five minutes, reads the temperature, humidity, and CO₂ levels, connects to Wi-Fi and Firebase, sends the data to Firebase, and then goes back to deep sleep.
 

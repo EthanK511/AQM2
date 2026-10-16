@@ -9,6 +9,8 @@ created_at: "2026-05-03"
 
 I'm going to use a collection of sensors and other parts to make a wireless monitor that measures CO₂, temperature, humidity, pressure, PM1, PM2.5, PM10, and maybe more.
 
+<img width="366" height="252" alt="Screenshot 2026-10-16 11 43 01 AM" src="https://github.com/user-attachments/assets/481c7ead-0a4b-4ac3-91dc-aebe2a4b5754" />
+
 **Total time spent: 0.2 hours**
 
 # May 4: PCB schematic
